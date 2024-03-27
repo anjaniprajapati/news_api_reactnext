@@ -1,23 +1,18 @@
-// 'use client'
-// import React ,{useState} from "react";
-import Image from "next/image";
 import styles from "./page.module.css";
-import NewsApi from "./news_api";
-import NewsComponent from "./news_component"
-// import Dammy from "./dammy";
+import Header from "./hearder";
+import Search from "./search";
+import News_Details from "./news_details";
+import Footer from "./footer";
+
 
 export default function Home() {
-  // const [data,setData]=useState(Dammy)
+  
   return (
    <>
-    <NewsApi/>
-    {/* {data.map((infor)=>(
-      <NewsComponent
-        // key={infor.id}
-        infor={infor}
-      />
-    ))} */}
-    <NewsComponent/>
+   <Header/>
+   <Search/>
+   <News_Details/>
+   <Footer/>
    </>
   );
 }
