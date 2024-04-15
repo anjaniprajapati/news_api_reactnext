@@ -1,6 +1,6 @@
-import './font.css'
-import "./globals.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './font.css';
+import "./globals.css";
 import '@fortawesome/fontawesome-free/css/all.css';
 import { Inter } from "next/font/google";
 
