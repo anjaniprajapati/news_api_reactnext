@@ -5,7 +5,7 @@ const Footer=()=>{
             <div className="container">
                 <div className="row">
                     <h1 className="footer-heading" >NewsAPI<i className="fa-solid fa-circle circlesmall" >
-                    </i>Org It's not responsible page</h1>
+                    </i>Org It's responsible page</h1>
                 </div>
             </div>
         </>

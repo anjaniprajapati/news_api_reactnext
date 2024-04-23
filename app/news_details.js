@@ -3,7 +3,7 @@ const News_Details = () => {
         <div className="container grid">
             <span className="topHeadline">TOP NEWS FROM INDIA</span>
             <div className="row">
-                <div className="col-sm ">
+                <div className="col-md-4 box ">
                     <img className="img" src="Screenshot 2023-12-15 at 11.26 1 (1).png"/>
                     <h3 className="title">Echoes of Defeat: A Personal Reflection on India's 2023 World Cup Loss</h3>
                     <p className="paragraph">The first one read, “India's loss in the 2023 World Cup final has echoes of West Indies' defeat in the 1983 World Cup final.” The parallels are .....</p>
@@ -11,7 +11,7 @@ const News_Details = () => {
                         Read full article <i className="fa-solid fa-arrow-right-long arrow"></i> 
                     </a>
                 </div>
-                <div className="col-sm">
+                <div className="col-md-4 box">
                 <img className="img" src="Screenshot 2023-12-15 at 11.26 1 (1).png"/>
                     <h3 className="title">Echoes of Defeat: A Personal Reflection on India's 2023 World Cup Loss</h3>
                     <p className="paragraph">The first one read, “India's loss in the 2023 World Cup final has echoes of West Indies' defeat in the 1983 World Cup final.” The parallels are .....</p>
@@ -19,7 +19,7 @@ const News_Details = () => {
                         Read full article <i className="fa-solid fa-arrow-right-long arrow"></i>
                     </a>
                 </div>
-                <div className="col-sm ">
+                <div className="col-md-4 box ">
                 <img className="img" src="Screenshot 2023-12-15 at 11.26 1 (1).png"/>
                     <h3 className="title">Echoes of Defeat: A Personal Reflection on India's 2023 World Cup Loss</h3>
                     <p className="paragraph">The first one read, “India's loss in the 2023 World Cup final has echoes of West Indies' defeat in the 1983 World Cup final.” The parallels are .....</p>
@@ -29,7 +29,7 @@ const News_Details = () => {
                 </div>
             </div>
             <div className="row">
-                <div className="col-sm col">
+                <div className="col-md-4 box">
                     <img className="img" src="Screenshot 2023-12-15 at 11.26 1 (1).png"/>
                     <h3 className="title">Echoes of Defeat: A Personal Reflection on India's 2023 World Cup Loss</h3>
                     <p className="paragraph">The first one read, “India's loss in the 2023 World Cup final has echoes of West Indies' defeat in the 1983 World Cup final.” The parallels are .....</p>
@@ -37,7 +37,7 @@ const News_Details = () => {
                         Read full article <i className="fa-solid fa-arrow-right-long arrow"></i> 
                     </a>
                 </div>
-                <div className="col-sm col">
+                <div className="col-md-4 box">
                     <img className="img" src="Screenshot 2023-12-15 at 11.26 1 (1).png"/>
                     <h3 className="title">Echoes of Defeat: A Personal Reflection on India's 2023 World Cup Loss</h3>
                     <p className="paragraph">The first one read, “India's loss in the 2023 World Cup final has echoes of West Indies' defeat in the 1983 World Cup final.” The parallels are .....</p>
@@ -45,7 +45,7 @@ const News_Details = () => {
                         Read full article <i className="fa-solid fa-arrow-right-long arrow"></i> 
                     </a>
                 </div>
-                <div className="col-sm col">
+                <div className="col-md-4 box">
                     <img className="img" src="Screenshot 2023-12-15 at 11.26 1 (1).png"/>
                     <h3 className="title">Echoes of Defeat: A Personal Reflection on India's 2023 World Cup Loss</h3>
                     <p className="paragraph">The first one read, “India's loss in the 2023 World Cup final has echoes of West Indies' defeat in the 1983 World Cup final.” The parallels are .....</p>
@@ -55,7 +55,7 @@ const News_Details = () => {
                 </div>
             </div>
             <div className="row">
-                <div className="col-sm col">
+                <div className="col-md-4 box ">
                     <img className="img" src="Screenshot 2023-12-15 at 11.26 1 (1).png"/>
                     <h3 className="title">Echoes of Defeat: A Personal Reflection on India's 2023 World Cup Loss</h3>
                     <p className="paragraph">The first one read, “India's loss in the 2023 World Cup final has echoes of West Indies' defeat in the 1983 World Cup final.” The parallels are .....</p>
@@ -63,7 +63,7 @@ const News_Details = () => {
                         Read full article <i className="fa-solid fa-arrow-right-long arrow"></i> 
                     </a>
                 </div>
-                <div className="col-sm col">
+                <div className="col-md-4 box">
                     <img className="img" src="Screenshot 2023-12-15 at 11.26 1 (1).png"/>
                     <h3 className="title">Echoes of Defeat: A Personal Reflection on India's 2023 World Cup Loss</h3>
                     <p className="paragraph">The first one read, “India's loss in the 2023 World Cup final has echoes of West Indies' defeat in the 1983 World Cup final.” The parallels are .....</p>
@@ -71,7 +71,7 @@ const News_Details = () => {
                         Read full article <i className="fa-solid fa-arrow-right-long arrow"></i> 
                     </a>
                 </div>
-                <div className="col-sm col">
+                <div className="col-md-4 box">
                     <img className="img" src="Screenshot 2023-12-15 at 11.26 1 (1).png"/>
                     <h3 className="title">Echoes of Defeat: A Personal Reflection on India's 2023 World Cup Loss</h3>
                     <p className="paragraph">The first one read, “India's loss in the 2023 World Cup final has echoes of West Indies' defeat in the 1983 World Cup final.” The parallels are .....</p>
