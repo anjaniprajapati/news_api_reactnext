@@ -1,7 +1,7 @@
 const News_Details = () => {
     return (
         <div className="container grid">
-            <span className="topHeadline">TOP NEWS FROM INDIA</span>
+            <h3 className="topHeadline">TOP NEWS FROM INDIA</h3>
             <div className="row">
                 <div className="col-md-4 box ">
                     <img className="img" src="Screenshot 2023-12-15 at 11.26 1 (1).png"/>

@@ -1,4 +1,3 @@
-import styles from "./page.module.css";
 import Header from "./hearder";
 import Search from "./search";
 import News_Details from "./news_details";

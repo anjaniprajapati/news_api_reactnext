@@ -2,7 +2,7 @@ const Header=()=>{
     return(
         <>
             <div className="container">
-                <div className="row"> 
+                <div className="heading-row"> 
                     <h1 className="heading">NewsAPI<i className="fa-solid fa-circle circle"></i>Org</h1>
                 </div>
             </div>
